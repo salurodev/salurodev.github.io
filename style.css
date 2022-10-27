@@ -60,6 +60,4 @@ main p:last-child {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    
-
 }
