@@ -40,6 +40,11 @@ main p {
     text-align: justify;
 }
 
+main p:last-child {
+    border-right: 3px solid red;
+    font-style: italic;
+}
+
 .rodape {
     background-color: rgba(47, 79, 79, 0.151);
     padding: 10px 100px;
